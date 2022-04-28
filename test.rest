@@ -1,0 +1,10 @@
+### valid date
+GET http://localhost:3000/api/1451001600000
+
+### invalid date
+
+GET http://localhost:3000/api/Invalid_Date
+
+### empty date
+
+GET http://localhost:3000/api/
